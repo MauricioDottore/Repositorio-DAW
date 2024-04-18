@@ -1,0 +1,4 @@
+metodo get, metodo post que hacen: pregunta examen.
+GET OBTENCION DE DATOS
+POST CREACION DE DATOS
+
